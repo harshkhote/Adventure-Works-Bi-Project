@@ -18,4 +18,8 @@ This project showcases business insights from the AdventureWorks dataset using t
 - Power BI for interactive dashboards
 - Tableau for advanced visualization
 
+![Screenshot (9)](https://github.com/user-attachments/assets/3ceb0fd0-4c5f-40d9-adc2-4279513f2b76)
 
+![Screenshot (8)](https://github.com/user-attachments/assets/d597e8e2-3711-4dac-9d77-9080e413a945)
+
+![Screenshot (5)](https://github.com/user-attachments/assets/2ec7bade-9697-4c3a-8a30-8bf939444125)
