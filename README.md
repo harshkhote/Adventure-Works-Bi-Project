@@ -6,6 +6,7 @@ This project showcases business insights from the AdventureWorks dataset using t
 - Excel
 - Power BI
 - Tableau
+- SQL
 
 ## Key Insights:
 - Monthly Sales Trends
